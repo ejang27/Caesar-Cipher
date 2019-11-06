@@ -1,0 +1,19 @@
+Script started on 2018-03-08 17:04:58-0500
+]0;ejang@alfirk:~/cs246/assignment5[ejang@alfirk assignment5]$ ./caesarcipher 
+Enter message to be encrypted: Go ahead, make my day.
+Enter shift amount (1-25): 2 3
+Ecrypted(encrypt1) message: Jr dkhdg, pdnh pb gdb. 
+Enter message to be encrypted: Go ahead, make my day.
+Enter shift amount (1-25): 3
+Ecrypted(encrypt1) message: Jr dkhdg, pdnh pb gdb. 
+]0;ejang@alfirk:~/cs246/assignment5[ejang@alfirk assignment5]$ ./caesarcipher 
+Enter message to be encrypted: With great power comes great responsibility.
+Enter shift amount (1-25): 2
+Ecrypted(encrypt1) message: Ykvj itgcv rqygt eqogu itgcv tgurqpukdknkva. 
+Enter message to be encrypted: With great power comes great responsibility.
+Enter shift amount (1-25): 2
+Ecrypted(encrypt1) message: Ykvj itgcv rqygt eqogu itgcv tgurqpukdknkva. 
+]0;ejang@alfirk:~/cs246/assignment5[ejang@alfirk assignment5]$ exit
+exit
+
+Script done on 2018-03-08 17:05:57-0500
